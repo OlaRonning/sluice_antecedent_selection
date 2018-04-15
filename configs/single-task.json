@@ -1,0 +1,1 @@
+{"batch_size": 10, "beta": 0, "iters_per_epoch": 17, "learn_rate": 0.01, "max_len": 458, "num_classes": 3, "num_embeddings": 50, "num_epochs": 30, "num_hidden": 64, "num_layers": 2, "stddev": 0.1, "use_crf": 0, "sc_thres": 200, "z_prob_cell":0, "z_prob_states": 0}
