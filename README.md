@@ -32,8 +32,8 @@ The dependencies are:
   * numpy==1.14.2
   * protobuf==3.5.2.post1
   * six==1.11.0
-  * tensorboard==1.7.0 *# Note requirement.txt is not gpu supported version*
-  * tensorflow==1.7.0
+  * tensorboard==1.7.0
+  * tensorflow==1.7.0 *# Note requirement.txt is not gpu supported version*
   * termcolor==1.1.0
   * Werkzeug==0.14.1
 
