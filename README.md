@@ -16,6 +16,9 @@ To evaluate on dialogue:
 
 	 > python3 mains/eval_dialogue -l tensorboard/20180415_230245 -m base
 
+# GloVe Embeddings
+embeddings.npy and ids.npy in the data/glove directory must be unzip before training. 
+
 # Dependencies
 Run the command below to install depedencies.
 
@@ -46,7 +49,8 @@ The structure of the repo is:
 ├── data
 │   ├── auxiliaries
 │   ├── esc
-│   └── opensub
+│   ├── opensub
+│   └── glove
 ├── load
 │   ├── core
 │   └── readers
