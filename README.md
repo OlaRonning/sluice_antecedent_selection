@@ -1,5 +1,5 @@
 # Sluice Antecedent Selection
-Code for the NAACL HLT 2018 paper: Sluice resolution without hand-crafted features over brittle syntax tree. 
+Codebase for the NAACL HLT 2018 paper: [Sluice Resolution without Hand-Crafted Features over Brittle Syntax trees.](https://aclanthology.info/papers/N18-2038/n18-2038)
 
 To train and evaluate:
 
